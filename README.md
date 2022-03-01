@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Porfolio.
 - 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on kaggle machine learning project.
+- 👯 I’m looking to collaborate on kaggle Data Science projects.
 
 
 <h2> Find me on the web: <h2>
