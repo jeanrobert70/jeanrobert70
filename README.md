@@ -1,6 +1,6 @@
 <img src="/da_image.jpg" alt="banner" />
 
-<h1>### Hi there and welcome to my GitHub page👋<h1>
+<h1>Hi there and welcome to my GitHub page👋<h1>
 
 My name is Jean-Robert and I am a data analyst from Melbourne, Florida.  I do a lot of things, and some of them you might even find interesting.😄
 
