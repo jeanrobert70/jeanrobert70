@@ -2,7 +2,7 @@
 
 <h1>Hi there and welcome to my GitHub page👋<h1>
 
-My name is Jean-Robert and I am a data analyst from Melbourne, Florida.  I do a lot of things, and some of them you might even find interesting.😄
+My name is Jean-Robert and I am from Palm Bay, FL and currently learning data analysis with python and machine learning.  I m working on quite a few interesting projects, and some of them you might even find interesting.  I love when data gives me that 'ah hah moment!'😄
 
 ---
 
@@ -12,7 +12,7 @@ My name is Jean-Robert and I am a data analyst from Melbourne, Florida.  I do a 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Porfolio.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on kaggle Data Science projects.
 
 
